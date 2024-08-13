@@ -1,0 +1,5 @@
+string=input("enter string")
+remove=input("enter word to remove")
+final_string=string.replace(remove,"")
+print(string)
+print(final_string)
